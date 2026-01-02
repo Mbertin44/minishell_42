@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/minishell-bonus_alt.png?raw=true">
-</p>
-
 
 # Nom du projet : minishell
 
@@ -51,8 +47,6 @@ Ce projet a été réalisé en collaboration avec [OSS-42](https://github.com/OS
 
 Nous espérons que vous apprécierez ce projet autant que nous avons aimé le réaliser.
 
-## Remerciement
-Merci à [byaliego](https://github.com/byaliego) pour le badge de projet.
 
 ## Auteur
 
